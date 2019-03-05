@@ -1,0 +1,32 @@
+Ostrzeżenie i analiza bieżącej sytuacji.
+Ostrzeżenie
+Ma powstać "Bitcoin gold" - to nie jest hard-fork "planowany na 15 listopada" w związku z niedogadaniem się kopalni i Bitcoin core, ale zwykły scam, większość użytkowników "mainstremowych" po wpisach na polskich stronach może kojarzyć "Bitcoin gold" z hard-forkiem który ma być 15 listopada.
+Cytat z forum.bitcoin.pl użytkownika ShadowOfHarbringer :
+"Jest to ogromny scam typu premine(16000 bloków / 200000 monet). Do tego istnieje wysokie prawdopodobieństwo, że został stworzony przez wrogów Bitcoina w celu jeszcze większego zwiększenia zamieszania i rozbicia jedności społeczności Bitcoin na kawałki."
+W związku z praktycznie pewnym hard-forkiem 15 listopada będa osoby które chcą się podłączyć pod to wydarzenia i zarobić na tym pieniądze, nie ma to nic wspólnego z ideą Bitcoina.
+Analiza bieżącej sytuacji w związku z praktycznie pewnym hard-forkiem 15 listopada.
+To co będzie uważane za "prawdziwego Bitcoina" będzie ten Coin który będzie miał najwięcej mocy kopalni. - 90% prawdopodobieństwa
+Tak jak w przypadku sytuacji z 1 sierpnia uważałem że wszystko jak pójdzie dobrze to powinno wzmocni Bitcoina (cena do góry). Gdy większość giełd zachowała się wzorowo a nawet polski cryptox.pl jako pierwsza zaczęła wypłacać bitcoin cash, to cena wzrośnie i wzrosła z 2800$ do 5800 $ (btc+bch)
+Tak teraz uważam że od około 2-4 tygodni przed hard-fork zaczną się pojawiać negatywne informacje, niepewność na rynku, bardzo duże zamieszanie i spowoduje to spadek ceny.
+By był spadek muszą za tym iść wiadomości medialne, "panika" nie występuje "od tak sobie".
+Cenę dla możemy zobaczyć znów w granicach 3800-3300$ - Bitfinex , tutaj z ceną piszę o samym Bitcoin
+Najniższą możliwą cenę jaką uważam na dziś może osiągnąć rynek to 2500$ dla "Bitcoina z 31 lipca" czyli btc+bch.
+Czym będzie większy zamęt związany z hard-forkiem 15 listopada tym będzie niższa cena.
+Sytuacja Bitcoin Cash
+Przez długi okres był wart 11-12% Bitcoina, aktualnie 8,2%, uważam że powstawanie każdego następnego Hard-forka będzie wpływało negatywnie na cenę i marginalizowało Bitcoin Cash.
+Cena spadła a główną jej przyczyną była wyprzedaż Bitcoin Cash przez localbitcoins[at]com, który postanowił zamienić Bitcoin Cash które dostał 1 lipca. Rewelacyjne zachowanie localbitcoins[at]com że oddali wartość Bitcoin Cash. W Polsce są podobe firmy jedną z nich jest BitMarket.pl która podobnie się zachowała do naszej firmy FlyingAtom.
+Rzadko robię wpisy apropo ceny bo rzadko zdarzają się sytuacje tak klarowne by można było określić w którą stronę powinien iść rynek. Oczywiste jest gdyby nagle się okazało że nie będzie hard-forka albo w miarę idealnie wyjdzie ta sytuacja to cena nie spadnie.
+Pisząc tekst nie mam otwartych pozycji w żadną stronę, dziś rano sprzedałem 8btc po 15100 wyzerowując wszelkie pozycje. Jeśli cena spadnie do poniżej 11.000 zastanowię się czy kupić w zależności od sytuacji.
+Niniejszy artykuł został sporządzony wyłącznie w celach informacyjnych. Nie stanowi rekomendacji, porady inwestycyjnej, prawnej, podatkowej, reklamy ani oferty sprzedaży jakichkolwiek instrumentów finansowych, w szczególności nie zawiera informacji o instrumentach finansowych oraz warunkach ich nabywania, jak również nie stanowi zaproszenia do sprzedaży instrumentów finansowych, składania ofert ich nabycia lub zapisu na instrumenty finansowe.
+Niniejszy artykuł ani żadna jego część, jak też fakt jego dystrybucji nie mogą stanowić podstawy do zawarcia jakiejkolwiek umowy lub zaciągnięcia jakiegokolwiek zobowiązania. Nie może stanowić również źródła informacji, które mogłyby być podstawą decyzji o zawarciu jakiejkolwiek umowy lub zaciągnięciu jakiegokolwiek zobowiązania.
+Nie należy dla jakichkolwiek potrzeb polegać na informacjach zawartych w niniejszym artykule, ani też zakładać, że informacje te są kompletne, ścisłe lub rzetelne. Wszelkie takie założenia czynione są wyłącznie na własne ryzyko.
+
+
+COINFIRM WAS HACKED!!!
+ 
+PWNED!! https://amlt.coinfirm.io
+ 
+WE HACKED ANOTHER SHITTY SERVICE WITHOUT ANY SECURITY WHICH CLAIMS TO BE A SECURITY EXPERT1!!
+ 
+SEND DONATIONS TO GET FULL LIST: 1CjRZYye8NH1fPRZvy4e5R1VizBjxemPp3
+
