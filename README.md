@@ -7,6 +7,7 @@ All data on Satoshi Nakamoto: https://github.com/bitcoinsSG/timechain
 
 Every PR is welcome ;-)
 
+https://for-bitcoin.com/calculator/
 
 https://99bitcoins.com/bitcoin-obituaries/
 

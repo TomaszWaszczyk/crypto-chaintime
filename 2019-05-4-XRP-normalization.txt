@@ -1,0 +1,10 @@
+$BTC total supply: 21,000,000
+$XRP total supply: 100,000,000,000
+
+$BTC price: $5,730
+$XRP price: $0.30
+
+$XRP price normalized to $BTC fully diluted supply
+
+= ($0.30*100,000,000,000)/21,000,000
+= $1,429/XRP
