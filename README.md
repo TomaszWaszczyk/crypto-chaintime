@@ -12,3 +12,6 @@ https://for-bitcoin.com/calculator/
 https://99bitcoins.com/bitcoin-obituaries/
 
 Use your brain as hard disk, not a RAM.
+
+https://paulrberg.com/post/2018/12/24/radical-markets/
+
